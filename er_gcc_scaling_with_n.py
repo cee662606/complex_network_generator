@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-Network Science Assignment: Task 2(d) & 2(e)
-Degree distribution and neighbor-degree distribution analysis
-"""
 
 import igraph as ig
 import numpy as np
