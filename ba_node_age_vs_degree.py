@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-Task 2(f): Node Age vs Final Degree — log-log fit
-Expected: power-law decay ~ 1/sqrt(i), slope ≈ -0.5
-"""
 
 import igraph as ig
 import numpy as np
